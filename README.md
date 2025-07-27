@@ -1,7 +1,6 @@
 
 # 🔐 Wi-Fi Security Assessment Report
 
-**Cyber Security Internship – Task 3**
 
 ## 📝 Objective
 Conduct a Wi-Fi security assessment on my home network, identifying vulnerabilities such as weak passwords, open ports, and unauthorized devices.
